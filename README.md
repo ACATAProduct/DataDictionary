@@ -1,2 +1,2 @@
 # DataDictionary
-Data Dictionary of Snowflake Demo
+Data Dictionary of the IntegraConnect Snowflake Demo
